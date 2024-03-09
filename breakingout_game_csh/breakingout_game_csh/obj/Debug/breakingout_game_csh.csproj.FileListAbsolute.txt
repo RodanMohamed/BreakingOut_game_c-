@@ -1,0 +1,10 @@
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\bin\Debug\breakingout_game_csh.exe.config
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\bin\Debug\breakingout_game_csh.exe
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\bin\Debug\breakingout_game_csh.pdb
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.csproj.AssemblyReference.cache
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.Form1.resources
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.Properties.Resources.resources
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.csproj.GenerateResource.cache
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.csproj.CoreCompileInputs.cache
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.exe
+C:\Users\is laptop\source\repos\breakingout_game_csh\breakingout_game_csh\obj\Debug\breakingout_game_csh.pdb
